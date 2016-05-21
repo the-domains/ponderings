@@ -1,0 +1,28 @@
+name: ponderings
+favicon: null
+layout_spectrum: 0.722654837416485
+typography_spectrum: 0.43551132013089955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.28361757448874414
+  lightness: 0.7002984369173646
+  saturation: 0.25021315016783774
+  rhythmicContrast: 0.2691762736067176
+purpose: []
